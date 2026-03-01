@@ -1,2 +1,2 @@
 # Microsoft-Kurse
-Inhalte der Microsoft Learn Kurse
+ Die wichtigsten Inhalte der Microsoft Learn Kurse dargestellt
