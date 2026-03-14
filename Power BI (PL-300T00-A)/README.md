@@ -6,28 +6,23 @@ Topic 1: Prepare the Data (The Power Query Phase)
 
 This topic focuses on getting data into Power BI and shaping it until it’s usable.
 
-
 Data Sourcing: Connecting to SQL Databases, Web, CSV, and the Microsoft Dataverse.
-
 
 Storage Modes: Configuring Import and DirectQuery, Dual Mode (and knowing when to use which).
 
-
 Data Profiling: Using the View tab to check Column Quality (errors/empty), Column Distribution, and Column Profile.
-
 
 Advanced Transformations: Unpivoting columns, Transpose, Merging vs. Appending queries, splitting by delimiter, Custom Columns, Column From Examples, Choose Top N and Bottom N.
 
-
 Query Management: Using Parameters to change data sources dynamically and view M-code in the Advanced Editor.
-
 
 Data Quality: Handling "Null" values, replacing errors and values, Fill up and down, removing duplicates, switching data types, Add, Rename, Reorder, or Delete columns.
 
 
 
 
-Topic 2: Model the Data (The Architecture Phase)
+Topic 2: Model the Data (The Architecture Phase)  
+
 Building the "logic" of the report using data modeling principles.
 
 Star Schema Design: Creating Fact Tables (quantitative data) and Dimension Tables (descriptive data).
@@ -41,7 +36,8 @@ Metadata Configuration: Hiding technical columns, setting "Sort by Column," and 
 Special Dimensions: Building a Common Date Table (CALENDARAUTO()) and handling Role-playing dimensions (e.g., Ship Date vs. Order Date).
 
 
-Topic 3: Create Model Calculations (The DAX Phase)
+Topic 3: Create Model Calculations (The DAX Phase)  
+
 Creating custom logic with DAX and important functions.
 
 Context Control: Understanding the difference between Row Context (Calculated Columns) and Filter Context (Measures).
@@ -57,7 +53,8 @@ Iterator Functions: Using SUMX, AVERAGEX etc. to operate on several columns in a
 Quick Measures: Using the wizard to generate common calculations like running totals.
 
 
-Topic 4: Visualize and Analyze (The UX Phase)
+Topic 4: Visualize and Analyze (The UX Phase)  
+
 Building the report with specific tools for report interactivity.
 
 Report Visuals: Stacked/clustered Bar/Column chart (100% or with Line), Line chart, Card (multi row), Matrix, Table, Slicer
@@ -75,7 +72,8 @@ AI Analytics: Using Key Influencers, the Decomposition Tree, Smart Narrative (au
 Trend Analysis: Applying Forecasting lines, Anomaly Detection, and Grouping/Binning for histograms.
 
 
-Topic 5: Manage and Secure (The Governance Phase)
+Topic 5: Manage and Secure (The Governance Phase)  
+
 This covers how the report "lives" in the cloud (Power BI Service).
 
 Workspace Management: Assigning Roles (Admin, Member, Contributor, Viewer) and creating Power BI Apps for distribution.
