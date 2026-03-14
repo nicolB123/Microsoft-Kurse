@@ -2,7 +2,8 @@ Inhalte des Kurses: PL-300T00-A: Design and manage analytics solutions using Pow
 
 
 
-Topic 1: Prepare the Data (The Power Query Phase)
+Topic 1: Prepare the Data (The Power Query Phase)  
+
 This topic focuses on getting data into Power BI and shaping it until it’s usable.
 
 
