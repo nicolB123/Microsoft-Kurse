@@ -2,7 +2,7 @@
 
 
 
-Topic 1: Prepare the Data (The Power Query Phase): This topic focuses on getting data into Power BI and shaping it until it’s usable.
+**Topic 1: Prepare the Data (The Power Query Phase): This topic focuses on getting data into Power BI and shaping it until it’s usable.**
 
 Data Sourcing: Connecting to SQL Databases, Web, CSV, and the Microsoft Dataverse.
 
@@ -18,7 +18,7 @@ Data Quality: Handling "Null" values, replacing errors and values, Fill up and d
 
 <br><br>
 
-Topic 2: Model the Data (The Architecture Phase): Building the "logic" of the report using data modeling principles.
+**Topic 2: Model the Data (The Architecture Phase): Building the "logic" of the report using data modeling principles.**
 
 Star Schema Design: Creating Fact Tables (quantitative data) and Dimension Tables (descriptive data).
 
@@ -32,7 +32,7 @@ Special Dimensions: Building a Common Date Table (CALENDARAUTO()) and handling R
 
 <br><br>
 
-Topic 3: Create Model Calculations (The DAX Phase): Creating custom logic with DAX and important functions.
+**Topic 3: Create Model Calculations (The DAX Phase): Creating custom logic with DAX and important functions.**
 
 Context Control: Understanding the difference between Row Context (Calculated Columns) and Filter Context (Measures).
 
@@ -48,7 +48,7 @@ Quick Measures: Using the wizard to generate common calculations like running to
 
 <br><br>
 
-Topic 4: Visualize and Analyze (The UX Phase): Building the report with specific tools for report interactivity.
+**Topic 4: Visualize and Analyze (The UX Phase): Building the report with specific tools for report interactivity.**
 
 Report Visuals: Stacked/clustered Bar/Column chart (100% or with Line), Line chart, Card (multi row), Matrix, Table, Slicer
 
@@ -66,7 +66,7 @@ Trend Analysis: Applying Forecasting lines, Anomaly Detection, and Grouping/Binn
 
 <br><br>
 
-Topic 5: Manage and Secure (The Governance Phase): This covers how the report "lives" in the cloud (Power BI Service).
+**Topic 5: Manage and Secure (The Governance Phase): This covers how the report "lives" in the cloud (Power BI Service).**
 
 Workspace Management: Assigning Roles (Admin, Member, Contributor, Viewer) and creating Power BI Apps for distribution.
 
