@@ -1,20 +1,29 @@
 Inhalte des Kurses: PL-300T00-A: Design and manage analytics solutions using Power BI.
 
 
+
 Topic 1: Prepare the Data (The Power Query Phase)
 This topic focuses on getting data into Power BI and shaping it until it’s usable.
 
+
 Data Sourcing: Connecting to SQL Databases, Web, CSV, and the Microsoft Dataverse.
+
 
 Storage Modes: Configuring Import and DirectQuery, Dual Mode (and knowing when to use which).
 
+
 Data Profiling: Using the View tab to check Column Quality (errors/empty), Column Distribution, and Column Profile.
+
 
 Advanced Transformations: Unpivoting columns, Transpose, Merging vs. Appending queries, splitting by delimiter, Custom Columns, Column From Examples, Choose Top N and Bottom N.
 
+
 Query Management: Using Parameters to change data sources dynamically and view M-code in the Advanced Editor.
 
+
 Data Quality: Handling "Null" values, replacing errors and values, Fill up and down, removing duplicates, switching data types, Add, Rename, Reorder, or Delete columns.
+
+
 
 
 Topic 2: Model the Data (The Architecture Phase)
