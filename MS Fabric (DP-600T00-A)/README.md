@@ -1,5 +1,5 @@
 # Verwendete Bereiche in Microsoft Fabric:
-<br><br>
+<br>
 **Data Engineering: Lakehouse, Notebook -> Labs 01, 02, 03, 13**
 
 **Data Factory: Dataflow Gen2, Pipeline -> Labs 04, 05**
