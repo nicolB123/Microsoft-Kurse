@@ -18,8 +18,7 @@ Query Management: Using Parameters to change data sources dynamically and view M
 
 Data Quality: Handling "Null" values, replacing errors and values, Fill up and down, removing duplicates, switching data types, Add, Rename, Reorder, or Delete columns.
 
-
-
+<br><br>
 
 Topic 2: Model the Data (The Architecture Phase)  
 
@@ -35,6 +34,7 @@ Metadata Configuration: Hiding technical columns, setting "Sort by Column," and 
 
 Special Dimensions: Building a Common Date Table (CALENDARAUTO()) and handling Role-playing dimensions (e.g., Ship Date vs. Order Date).
 
+<br><br>
 
 Topic 3: Create Model Calculations (The DAX Phase)  
 
@@ -52,6 +52,7 @@ Iterator Functions: Using SUMX, AVERAGEX etc. to operate on several columns in a
 
 Quick Measures: Using the wizard to generate common calculations like running totals.
 
+<br><br>
 
 Topic 4: Visualize and Analyze (The UX Phase)  
 
@@ -71,6 +72,7 @@ AI Analytics: Using Key Influencers, the Decomposition Tree, Smart Narrative (au
 
 Trend Analysis: Applying Forecasting lines, Anomaly Detection, and Grouping/Binning for histograms.
 
+<br><br>
 
 Topic 5: Manage and Secure (The Governance Phase)  
 
