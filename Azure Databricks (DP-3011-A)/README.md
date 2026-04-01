@@ -2,6 +2,6 @@
 
 **Data Querying Language in Pyspark, SparkSQL und SQL**
 
-**Data Manipulation Language in Pyspark, SparkSQL und SQL**
+**Data Manipulation Language in Pyspark und SQL**
 
 Die Notebook Anteile des Kurses (Pyspark, SparkSQL, SQL) des Kurses sind hier referenziert.
