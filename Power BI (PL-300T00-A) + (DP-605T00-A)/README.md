@@ -12,7 +12,7 @@ Data Profiling: Using the View tab to check Column Quality (errors/empty), Colum
 
 Advanced Transformations: Unpivoting columns, Transpose, Merging vs. Appending queries, splitting by delimiter, Custom Columns, Column From Examples, Choose Top N and Bottom N
 
-Query Management: Using Parameters to change data sources dynamically and view M-code in the Advanced Editor
+Query Management: Using Parameters to change data sources dynamically and edit M-code in the Advanced Editor
 
 Data Quality: Handling "Null" values, replacing errors and values, Fill up and down, removing duplicates, switching data types, Add, Rename, Reorder, or Delete columns
 
